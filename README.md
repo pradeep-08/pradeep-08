@@ -47,9 +47,9 @@
 
 ### 🎨 Designing
 <p align="left">
-  <a href="https://www.canva.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Canva_Logo.svg" alt="Canva" width="40" height="40" style="margin-right: 15px;" /></a>
-  <a href="https://miro.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Miro_logo.svg" alt="Miro" width="40" height="40" style="margin-right: 15px;" /></a>
-  <a href="https://webflow.com/" target="_blank"><img src="https://uploads-ssl.webflow.com/5d7b0f5c4b5a1c2b3f3e6b4b/5d7b0f5c4b5a1c2b3f3e6b4c_webflow-logo.svg" alt="Webflow" width="40" height="40" style="margin-right: 15px;" /></a>
+  <a href="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/canva.svg" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Canva_Logo.svg" alt="Canva" width="40" height="40" style="margin-right: 15px;" /></a>
+  <a href="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/miro.svg" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Miro_logo.svg" alt="Miro" width="40" height="40" style="margin-right: 15px;" /></a>
+  <a href="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/webflow.svg" target="_blank"><img src="https://uploads-ssl.webflow.com/5d7b0f5c4b5a1c2b3f3e6b4b/5d7b0f5c4b5a1c2b3f3e6b4c_webflow-logo.svg" alt="Webflow" width="40" height="40" style="margin-right: 15px;" /></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="40" height="40" style="margin-right: 15px;" />
 </p>
