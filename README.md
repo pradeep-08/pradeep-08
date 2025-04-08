@@ -62,12 +62,15 @@
 
 ## 📊 GitHub Stats 
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeep-08&show_icons=true&theme=react&count_private=true&cache_seconds=1800" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pradeep-08&theme=react" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-08&layout=compact&theme=react&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-08&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeep-08&show_icons=true&theme=react&count_private=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pradeep-08&theme=react" />
+</p>
+
 
 ---
