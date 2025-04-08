@@ -10,15 +10,13 @@
 
 ---
 
-## 🛠️ Languages & Tools
-
-## 👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
 </p>
 
-### 🌐 Frontend
+## 🌐 Frontend:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
@@ -28,24 +26,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="40" height="40" />
 </p>
 
-### 🔧 Backend
+## 🔧 Backend:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
 </p>
 
-### 🗃️ Databases
+## 🗃️ Databases:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
 </p>
 
-### 📊 Data Visualization
+## 📊 Data Visualization:
 <p align="left">
   <img src="https://www.chartjs.org/media/logo-title.svg" width="100" height="40" />
 </p>
 
-### 🎨 Designing
+## 🎨 Designing:
 <p align="left">
   <img src="https://download.logo.wine/logo/Canva/Canva-Logo.wine.png" width="40" height="40" />
   <img src="https://assets.website-files.com/620b5ed88f24e7994857f6ab/620b5ed88f24e7a3c057f6d5_miro-logo.png" width="40" height="40" />
@@ -54,7 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="40" height="40" />
 </p>
 
-### 🧰 Software Tools
+## 🧰 Software Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
@@ -62,7 +60,7 @@
 
 ---
 
-## 📊 GitHub Stats (try refresh if not loading)
+## 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pradeep-08&show_icons=true&theme=react&count_private=true&cache_seconds=1800" />
