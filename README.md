@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Pradeep</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashwinvenkatesan&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinvenkatesan" />
-</p>
+  <h3 id="hi-there">Hi there 👋</h3>
+<p><a href="https://pradeep-08.github.io/pradeep-dev/"><img src="https://i.imgur.com/HcaHoth.png" alt="img"></a></p>
+<hr>
+<p>Credits: <a href="https://github.com/pradeep-08">Pradeep</a></p>
+<p>Last Edited on: 08/04/2025</p> 
 
 ---
 
