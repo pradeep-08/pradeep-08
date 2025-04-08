@@ -68,7 +68,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pradeep-08&show_icons=true&theme=default&count_private=true" />
 </p>
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pradeep-08&theme=default" />
 </p>
 
