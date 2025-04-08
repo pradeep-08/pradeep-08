@@ -62,7 +62,7 @@
 
 ---
 
-## 📊 GitHub Stats (try refresh if not loading)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pradeep-08&show_icons=true&theme=react&count_private=true&cache_seconds=1800" />
