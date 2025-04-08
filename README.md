@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Pradeep</h1>
 
 <p align="center">
@@ -10,7 +11,6 @@
 ---
 
 ## 🛠️ Languages & Tools
-
 
 ### 👨‍💻 Programming Languages
 <p align="left">
@@ -48,11 +48,11 @@
 
 ### 🎨 Designing
 <p align="left">
+  <a href="https://www.canva.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Canva_Logo.svg" alt="Canva" width="40" height="40" style="margin-right: 15px;" /></a>
+  <a href="https://miro.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Miro_logo.svg" alt="Miro" width="40" height="40" style="margin-right: 15px;" /></a>
+  <a href="https://webflow.com/" target="_blank"><img src="https://uploads-ssl.webflow.com/5d7b0f5c4b5a1c2b3f3e6b4b/5d7b0f5c4b5a1c2b3f3e6b4c_webflow-logo.svg" alt="Webflow" width="40" height="40" style="margin-right: 15px;" /></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="40" height="40" style="margin-right: 15px;" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" style="margin-right: 15px; height: 28px;" />
-  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow" style="margin-right: 15px; height: 28px;" />
-  <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" style="margin-right: 15px; height: 28px;" />
 </p>
 
 ### 🧰 Software Tools
@@ -63,26 +63,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (try refresh if not loading)
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react&card_width=450"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeep-08&show_icons=true&theme=react&count_private=true&cache_seconds=1800" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pradeep-08&theme=react" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-08&layout=compact&theme=react&langs_count=6" />
+</p>
 
 ---
-
-## 🏆 Achievements
-
-- 🔥 Total Contributions: `37`
-- 🟠 Current Streak: `0 days`
-- 🧡 Longest Streak: `2 days`
-
----
-
-> ✨ *Last updated on: Apr 8, 2025*
