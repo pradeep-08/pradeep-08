@@ -1,4 +1,4 @@
-  
+
 <h1 align="center">Hi 👋, I'm Pradeep</h1>
 
 <p align="center">
@@ -14,55 +14,55 @@
 
 ### 👨‍💻 Programming Languages
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
 </p>
 
 ### 🌐 Frontend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="40" height="40" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="40" height="40" />
 </p>
 
 ### 🔧 Backend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
 </p>
 
 ### 🗃️ Databases
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
 </p>
 
 ### 📊 Data Visualization
 <p align="left">
-  <img src="https://www.chartjs.org/media/logo-title.svg" width="100" height="40" style="margin-right: 15px;" />
+  <img src="https://www.chartjs.org/media/logo-title.svg" width="100" height="40" />
 </p>
 
 ### 🎨 Designing
 <p align="left">
-  <a href="https://upload.wikimedia.org/wikipedia/commons/e/ec/Canva_Logo.svg" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Canva_Logo.svg" alt="Canva" width="40" height="40" style="margin-right: 15px;" /></a>
-  <a href="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/miro.svg" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Miro_logo.svg" alt="Miro" width="40" height="40" style="margin-right: 15px;" /></a>
-  <a href="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/webflow.svg" target="_blank"><img src="https://uploads-ssl.webflow.com/5d7b0f5c4b5a1c2b3f3e6b4b/5d7b0f5c4b5a1c2b3f3e6b4c_webflow-logo.svg" alt="Webflow" width="40" height="40" style="margin-right: 15px;" /></a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="40" height="40" style="margin-right: 15px;" />
+  <img src="https://download.logo.wine/logo/Canva/Canva-Logo.wine.png" width="40" height="40" />
+  <img src="https://assets.website-files.com/620b5ed88f24e7994857f6ab/620b5ed88f24e7a3c057f6d5_miro-logo.png" width="40" height="40" />
+  <img src="https://assets-global.website-files.com/5f6b719079c3a1d2edb5c46a/63f76170b2e6a9277ad2bc96_webflow-logo.png" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="40" height="40" />
 </p>
 
 ### 🧰 Software Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (try refresh if not loading)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pradeep-08&show_icons=true&theme=react&count_private=true&cache_seconds=1800" />
