@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **pradeep.tasp.0802@gmail.com**
 
 - ⚡ Fun fact: **I love crafting pixel-perfect UIs**
 
