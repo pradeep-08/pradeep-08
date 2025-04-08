@@ -62,9 +62,9 @@
 
 ## 📊 GitHub Stats 
 
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-08&layout=compact&theme=default" />
 <p align="start">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-08&layout=compact&theme=default" />
+ 
   <img src="https://github-readme-stats.vercel.app/api?username=pradeep-08&show_icons=true&theme=default&count_private=true" />
 </p>
 
