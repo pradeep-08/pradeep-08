@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
 </p>
 
-## 🌐 Frontend:
+##  Frontend:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
@@ -26,33 +26,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="40" height="40" />
 </p>
 
-## 🔧 Backend:
+##  Backend:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
 </p>
 
-## 🗃️ Databases:
+## 🗃 Databases:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
 </p>
 
-## 📊 Data Visualization:
+##  Data Visualization:
 <p align="left">
   <img src="https://www.chartjs.org/media/logo-title.svg" width="100" height="40" />
 </p>
 
-## 🎨 Designing:
+##  Designing:
 <p align="left">
-  <img src="https://download.logo.wine/logo/Canva/Canva-Logo.wine.png" width="40" height="40" />
-  <img src="https://assets.website-files.com/620b5ed88f24e7994857f6ab/620b5ed88f24e7a3c057f6d5_miro-logo.png" width="40" height="40" />
-  <img src="https://assets-global.website-files.com/5f6b719079c3a1d2edb5c46a/63f76170b2e6a9277ad2bc96_webflow-logo.png" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="40" height="40" />
+    <img src="https://download.logo.wine/logo/Canva/Canva-Logo.wine.png" width="40" height="40" />
+  <img src="https://assets.website-files.com/620b5ed88f24e7994857f6ab/620b5ed88f24e7a3c057f6d5_miro-logo.png" width="40" height="40" />
+  <img src="https://assets-global.website-files.com/5f6b719079c3a1d2edb5c46a/63f76170b2e6a9277ad2bc96_webflow-logo.png" width="40" height="40" />
 </p>
 
-## 🧰 Software Tools:
+##  Software Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
@@ -60,7 +60,7 @@
 
 ---
 
-## 📊 GitHub Stats 
+##  GitHub Stats 
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-08&layout=compact&theme=default" />
 <p align="start">
