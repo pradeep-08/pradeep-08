@@ -64,12 +64,12 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-08&layout=compact&theme=react" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeep-08&show_icons=true&theme=react&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-08&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeep-08&show_icons=true&theme=default&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pradeep-08&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pradeep-08&theme=default" />
 </p>
 
 
