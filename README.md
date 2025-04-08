@@ -61,7 +61,9 @@
 ---
 
 ##  GitHub Stats 
-
+<p align="start">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pradeep-08&theme=default" />
+</p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-08&layout=compact&theme=default" />
 <p align="start">
  
