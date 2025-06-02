@@ -71,5 +71,7 @@
 </p>
 
 
+<a href="https://app.daily.dev/shad71"><img src="https://api.daily.dev/devcards/v2/dOi8BYdwqU18v1dp1iNwc.png?type=default&r=akp" width="356" alt="Shad's Dev Card"/></a>
+
 
 ---
